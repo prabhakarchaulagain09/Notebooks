@@ -7,7 +7,7 @@ This repository contains a collection of my `.ipynb` files from various sources,
 The notebooks are organized based on their topics and purpose:
 
 - **Data Science Principles (DSP)**
-  - This Folder contains all the Notebooks related DSP subject
+  - Basic codes related data sience
 - **Data**
   - Sets of data from past projects or for futute projects
 
